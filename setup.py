@@ -17,7 +17,7 @@ setup(
     description="A Library For Perspective API Usage",
     long_description=open("README.md").read(),
     long_description_content_type='text/markdown',
-    url="",
+    url="https://github.com/TunayAdaKaracan/PyPerspective",
     author="Tunay Ada Karacan",
     author_email="tunayada@gmail.com",
     license="MIT",

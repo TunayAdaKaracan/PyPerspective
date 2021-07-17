@@ -4,7 +4,6 @@ import warnings
 import json
 import datetime
 
-# AIzaSyDg1fDrBlM0weFcXNTwYnNogL32PQsoIiE
 Allowed_Tests = {
                     "TOXICITY":["en","es","fr","de","pt","it","ru"],
                     "TOXICITY_EXPERIMENTAL": ["ar"],
