@@ -10,7 +10,7 @@ A Simple Perspective API Library.
 
 ### Example Usages
 ```py
-from PyPerspective import Perspective
+from PyPerspective.Perspective import Perspective
 perspective = Perspective("API KEY",ratelimit=True,default_not_store=True) # Default Do Not Store Option Is True.
 # Default Not Store Option Is For Not Providing Do_Not_Store Kwarg In Get Score Function
 # You Can Overwrite Default If You Gave Kwarg In Get Score Func
