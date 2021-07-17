@@ -1,5 +1,5 @@
 import requests
-from errors import InvalidAuthKey, NotValidTest, DefaultStoreTypeError, LangsTypeError, TestsTypeError, TextTypeError, SubAttributesTypeError, ApiException, RateLimiterTypeError, RateLimited
+from .errors import InvalidAuthKey, NotValidTest, DefaultStoreTypeError, LangsTypeError, TestsTypeError, TextTypeError, SubAttributesTypeError, ApiException, RateLimiterTypeError, RateLimited
 import warnings
 import json
 import datetime
